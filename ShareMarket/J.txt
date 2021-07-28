@@ -1,0 +1,3 @@
+Details: |Jaynil Vaidya|19|male
+Company: |Tata|Ta1008|200|418.09457|
+Company: |Nike|Ni936|5|647.6885
